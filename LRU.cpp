@@ -28,7 +28,7 @@
      }
      j = 0;
      cout << "\n\t***\n";
-     cout << "\t" << page[i] << "–>";
+     cout << "\t" << page[i] << "â€“>";
      if (flag == 0) {
        int min = 0, k = 0;
        while (k < nofaults - 1) {
